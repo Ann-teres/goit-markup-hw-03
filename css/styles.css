@@ -8,8 +8,61 @@ ul {
   list-style: none;
 }
 
+text {
+  color: brown;
+}
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+body {
+  font-family: Montserrat, sans-serif;
+}
+
+ul {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 a {
   text-decoration: none;
+}
+
+address {
+  font-style: normal;
+}
+.container {
+  width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: auto;
+}
+.section-presection {
+  width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: auto;
+}
+.section-first {
+  width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: auto;
 }
 
 /* ------header---------- */
@@ -125,6 +178,10 @@ a {
 /* -------setion 2------- */
 .our-team {
   background-color: #f4f4fd;
+  width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: auto;
 }
 .our-team-section {
   background-color: #ffffff;
@@ -167,6 +224,10 @@ a {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
+  width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: auto;
 }
 .our-portfolio {
   font-weight: 700;
