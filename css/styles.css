@@ -72,7 +72,9 @@ address {
   text-transform: uppercase;
   color: #2e2f42;
 }
-
+.hover-button {
+  border-radius: 15%;
+}
 .hover-button:hover {
   color: #404bbf;
 }
