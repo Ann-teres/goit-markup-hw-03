@@ -16,7 +16,6 @@ text {
   padding: 0;
   list-style: none;
   box-sizing: border-box;
-  margin: auto;
 }
 body {
   font-family: Montserrat, sans-serif;
@@ -48,17 +47,6 @@ address {
   font-style: normal;
 }
 .container {
-  width: 1158px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-.section-presection padding {
-  width: 1158px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin: auto;
-}
-.section-first {
   width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
@@ -178,10 +166,6 @@ address {
 /* -------setion 2------- */
 .our-team {
   background-color: #f4f4fd;
-  width: 1158px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin: auto;
 }
 .our-team-section {
   background-color: #ffffff;
