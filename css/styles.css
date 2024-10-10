@@ -1,0 +1,225 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color: #434455;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* ------header---------- */
+.header-logo-blue {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.header-logo-studio {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+
+.hover-button:hover {
+  color: #404bbf;
+}
+.hover-button:focus {
+  color: #404bbf;
+}
+
+.header-menu-options:first-child:hover {
+  color: #404bbf;
+}
+.header-menu-options:first-child:focus {
+  color: #404bbf;
+}
+.header-menu-options {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.address-class {
+  font-style: normal;
+}
+.contact-details {
+  font-family: rototo;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  font-style: normal;
+  color: #434455;
+}
+.contact-details:first-child:focus {
+  color: #404bbf;
+}
+.contact-details:first-child:hover {
+  color: #404bbf;
+}
+/* pre section one */
+.order-message {
+  background-color: #2e2f42;
+  color: #4d5ae5;
+}
+
+.message-solution {
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+  background-color: #404bbf;
+}
+.hover-button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+  background-color: #4d5ae5;
+}
+
+.hover-button:hover {
+  background-color: #404bbf;
+}
+
+.hover-button:focus {
+  background-color: #404bbf;
+}
+
+/* -------first section-------- */
+.section-first-header {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.section-fist-description {
+  font-family: roboto;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* -------setion 2------- */
+.our-team {
+  background-color: #f4f4fd;
+}
+.our-team-section {
+  background-color: #ffffff;
+}
+.section-second-header {
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+  background-color: #f4f4fd;
+}
+.card-content-name {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  background-color: #ffffff;
+}
+.card-content-profesion {
+  font-family: roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  background-color: #ffffff;
+}
+
+/* --------section 3--------- */
+.section-four {
+  font-family: roboto;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+.our-portfolio {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.section-four-mokeup-description {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.card-content-profesion {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* ---------footeR------------ */
+.footer-section {
+  font-family: raleway;
+  background-color: #2e2f42;
+}
+.footer-web {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  background-color: #2e2f42;
+}
+.footer-studio {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  text-transform: uppercase;
+  color: #f4f4fd;
+  background-color: #2e2f42;
+}
+.footer-descripton {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+  background-color: #2e2f42;
+}
