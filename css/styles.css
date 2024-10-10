@@ -16,6 +16,7 @@ text {
   padding: 0;
   list-style: none;
   box-sizing: border-box;
+  margin: auto;
 }
 body {
   font-family: Montserrat, sans-serif;
@@ -37,7 +38,6 @@ h6,
 p {
   margin-top: 0;
   margin-bottom: 0;
-  margin: auto;
 }
 
 a {
