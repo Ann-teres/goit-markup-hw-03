@@ -117,6 +117,8 @@ address {
 /* pre section one */
 .order-message {
   background-color: #2e2f42;
+  width: 1440px;
+  height: 600px;
   color: #4d5ae5;
 }
 .header {
@@ -142,8 +144,6 @@ address {
   color: #ffffff;
   cursor: pointer;
   background-color: #4d5ae5;
-  width: 1440px;
-  height: 600px;
 }
 
 .hover-button:hover .button {
