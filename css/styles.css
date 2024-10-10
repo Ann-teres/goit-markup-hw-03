@@ -37,6 +37,7 @@ h6,
 p {
   margin-top: 0;
   margin-bottom: 0;
+  margin: auto;
 }
 
 a {
@@ -50,9 +51,8 @@ address {
   width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
-  margin: auto;
 }
-.section-presection {
+.section-presection padding {
   width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
