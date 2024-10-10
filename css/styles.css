@@ -117,7 +117,10 @@ address {
   background-color: #2e2f42;
   color: #4d5ae5;
 }
-
+.header {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
 .message-solution {
   font-family: roboto;
   font-weight: 700;
