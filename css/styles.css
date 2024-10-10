@@ -72,8 +72,8 @@ address {
   text-transform: uppercase;
   color: #2e2f42;
 }
-.hover-button {
-  border-radius: 30%;
+.botton {
+  border-radius: 20%;
 }
 .hover-button:hover {
   color: #404bbf;
