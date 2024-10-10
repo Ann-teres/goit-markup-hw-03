@@ -106,6 +106,7 @@ address {
   letter-spacing: 0.02em;
   font-style: normal;
   color: #434455;
+  margin-left: auto;
 }
 .contact-details:first-child:focus {
   color: #404bbf;
