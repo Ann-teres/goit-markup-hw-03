@@ -96,6 +96,7 @@ address {
 }
 .address-class {
   font-style: normal;
+  margin-left: auto;
 }
 .contact-details {
   font-family: rototo;
@@ -133,8 +134,7 @@ address {
 }
 .hover-button .button {
   font-family: "Roboto", sans-serif;
-  width: 105px;
-  height: 24px;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
