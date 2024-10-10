@@ -140,15 +140,16 @@ address {
   color: #ffffff;
   cursor: pointer;
   background-color: #4d5ae5;
-  border-radius: 10%;
 }
 
 .hover-button:hover .button {
   background-color: #404bbf;
+  border-radius: 10%;
 }
 
 .hover-button:focus .button {
   background-color: #404bbf;
+  border-radius: 10%;
 }
 
 /* -------first section-------- */
