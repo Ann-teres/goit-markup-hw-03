@@ -159,11 +159,15 @@ address {
 .hover-button .button {
   cursor: pointer;
   background-color: #4d5ae5;
+  width: 169px;
+  height: 56px;
 }
 
 .hover-button:hover .button {
   background-color: #404bbf;
   border-radius: 10%;
+  width: 169px;
+  height: 56px;
 }
 
 .hover-button:focus .button {
