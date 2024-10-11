@@ -164,6 +164,8 @@ address {
 /* -------first section-------- */
 .cont-section-first {
   margin-top: 120px;
+  margin-bottom: 120px;
+  gap: 24px;
 }
 .section-first-header {
   font-family: roboto;
