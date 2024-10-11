@@ -120,6 +120,7 @@ address {
   margin: auto;
   height: 600px;
   color: #4d5ae5;
+  padding-top: 191px;
 }
 .header {
   padding-top: 24px;
@@ -137,6 +138,7 @@ address {
   display: block;
   margin-right: auto;
   margin-left: auto;
+  padding-top: 356px;
 }
 
 .text-solution {
