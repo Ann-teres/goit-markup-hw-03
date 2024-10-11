@@ -190,6 +190,7 @@ address {
 }
 .our-team-section {
   background-color: #ffffff;
+  gap: 24px;
 }
 .section-second-header {
   font-family: roboto;
@@ -210,6 +211,7 @@ address {
   letter-spacing: 0.02em;
   color: #2e2f42;
   background-color: #ffffff;
+  gap: 24px;
 }
 .card-content-profesion {
   font-family: roboto;
@@ -218,6 +220,7 @@ address {
   letter-spacing: 0.02em;
   color: #2e2f42;
   background-color: #ffffff;
+  gap: 24px;
 }
 
 /* --------section 3--------- */
@@ -256,6 +259,7 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  gap: 24px;
 }
 /* ---------footeR------------ */
 .footer-section {
