@@ -145,6 +145,7 @@ address {
   letter-spacing: 0.02em;
   margin: auto;
   color: #ffffff;
+  background-color: #404bbf;
   text-align: center;
 }
 .hover-button .button {
