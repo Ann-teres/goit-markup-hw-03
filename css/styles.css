@@ -134,6 +134,9 @@ address {
   color: #ffffff;
   text-align: center;
   background-color: #4d5ae5;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .text-solution {
