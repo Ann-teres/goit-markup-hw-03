@@ -130,10 +130,8 @@ address {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  margin-top: 356px;
-  margin-right: 535px;
-  margin-bottom: 188px;
-  margin-left: 535px;
+  text-align: center;
+  margin: auto;
 }
 .message-solution {
   background-color: #404bbf;
@@ -145,10 +143,7 @@ address {
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
-  margin-top: 191px;
-  margin-right: 472px;
-  margin-bottom: 289px;
-  margin-left: 472px;
+  margin: auto;
   color: #ffffff;
 }
 .hover-button .button {
