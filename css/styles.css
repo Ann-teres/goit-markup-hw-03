@@ -50,7 +50,6 @@ address {
   width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
-  margin: auto;
 }
 
 /* ------header---------- */
@@ -125,6 +124,12 @@ address {
   padding-top: 24px;
   padding-bottom: 24px;
 }
+.button {
+  margin-top: 356px;
+  margin-right: 535px;
+  margin-bottom: 188px;
+  margin-left: 535px;
+}
 .message-solution {
   font-family: roboto;
   font-weight: 700;
@@ -132,6 +137,10 @@ address {
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
+  margin-top: 191px;
+  margin-right: 472px;
+  margin-bottom: 289px;
+  margin-left: 472px;
   color: #ffffff;
   background-color: #404bbf;
 }
