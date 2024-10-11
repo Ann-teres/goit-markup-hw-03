@@ -180,7 +180,7 @@ address {
 }
 .wrap {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 .section-first-header {
   font-family: roboto;
@@ -211,7 +211,7 @@ address {
 }
 .wrap {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 .our-team-section {
   background-color: #ffffff;
@@ -264,7 +264,7 @@ address {
 }
 .wrap {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 .our-portfolio {
   font-weight: 700;
