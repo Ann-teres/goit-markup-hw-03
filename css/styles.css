@@ -162,6 +162,9 @@ address {
 }
 
 /* -------first section-------- */
+.cont-section-first {
+  margin-top: 120px;
+}
 .section-first-header {
   font-family: roboto;
   font-weight: 500;
