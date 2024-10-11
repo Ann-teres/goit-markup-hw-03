@@ -125,32 +125,34 @@ address {
   padding-bottom: 24px;
 }
 .button {
-  margin-top: 356px;
-  margin-right: 535px;
-  margin-bottom: 188px;
-  margin-left: 535px;
-}
-.message-solution {
-  font-family: roboto;
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 1.07;
-  letter-spacing: 0.02em;
-  text-align: center;
-  margin-top: 191px;
-  margin-right: 472px;
-  margin-bottom: 289px;
-  margin-left: 472px;
-  color: #ffffff;
-  background-color: #404bbf;
-}
-.hover-button .button {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  margin-top: 356px;
+  margin-right: 535px;
+  margin-bottom: 188px;
+  margin-left: 535px;
+}
+.message-solution {
+  background-color: #404bbf;
+}
+.text-solution {
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  margin-top: 191px;
+  margin-right: 472px;
+  margin-bottom: 289px;
+  margin-left: 472px;
+  color: #ffffff;
+}
+.hover-button .button {
   cursor: pointer;
   background-color: #4d5ae5;
 }
