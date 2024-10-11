@@ -178,7 +178,9 @@ address {
 .cont-section-first {
   gap: 24px;
 }
-
+.wrap {
+  display: flex;
+}
 .section-first-header {
   font-family: roboto;
   font-weight: 500;
