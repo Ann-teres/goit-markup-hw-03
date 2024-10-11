@@ -131,7 +131,6 @@ address {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  margin: auto;
   text-align: center;
 }
 .message-solution {
@@ -143,7 +142,6 @@ address {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  margin: auto;
   color: #ffffff;
   background-color: #404bbf;
   text-align: center;
