@@ -138,8 +138,10 @@ address {
   display: block;
   margin-right: auto;
   margin-left: auto;
-  padding-top: 45px;
-  padding-bottom: 188px;
+  padding-top: 16px;
+  padding-right: 32px;
+  padding-bottom: 16px;
+  padding-left: 32px;
 }
 
 .text-solution {
@@ -159,15 +161,11 @@ address {
 .hover-button .button {
   cursor: pointer;
   background-color: #4d5ae5;
-  width: 169px;
-  height: 56px;
 }
 
 .hover-button:hover .button {
   background-color: #404bbf;
   border-radius: 10%;
-  width: 169px;
-  height: 56px;
 }
 
 .hover-button:focus .button {
