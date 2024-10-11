@@ -97,6 +97,7 @@ address {
 .address-class {
   font-style: normal;
   margin-left: auto;
+  flex-direction: row-reverse;
 }
 .contact-details {
   font-family: rototo;
