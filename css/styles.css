@@ -119,8 +119,7 @@ address {
   background-color: #2e2f42;
   margin: auto;
   height: 600px;
-  color: #ffffff;
-  padding-top: 191px;
+  color: #4d5ae5;
 }
 .header {
   padding-top: 24px;
@@ -139,6 +138,7 @@ address {
   margin-right: auto;
   margin-left: auto;
   padding-top: 356px;
+  padding-bottom: 188px;
 }
 
 .text-solution {
@@ -152,6 +152,8 @@ address {
   display: block;
   margin-right: auto;
   margin-left: auto;
+  padding-top: 191px;
+  padding-bottom: 289px;
 }
 .hover-button .button {
   cursor: pointer;
