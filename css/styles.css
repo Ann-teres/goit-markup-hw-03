@@ -108,6 +108,11 @@ address {
   flex-direction: row-reverse;
   flex-wrap: nowrap;
 }
+.wrap-one {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 40px;
+}
 .contact-details {
   font-family: rototo;
   font-style: normal;
