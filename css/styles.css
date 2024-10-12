@@ -260,6 +260,8 @@ address {
   /* background-color: #f4f4fd; */
   margin-top: 120px;
   margin-bottom: 72px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .container {
   padding-top: 120px;
