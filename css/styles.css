@@ -53,6 +53,10 @@ address {
   padding-left: 15px;
   padding-right: 15px;
 }
+.extra-container {
+  display: flex;
+  align-items: center;
+}
 
 /* ------header---------- */
 .header {
@@ -135,6 +139,10 @@ address {
   font-style: normal;
   color: #434455;
   margin-left: auto;
+}
+.first-element {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .contact-details:first-child:focus {
   color: #404bbf;
