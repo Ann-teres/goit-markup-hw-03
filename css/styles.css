@@ -106,6 +106,7 @@ address {
   font-style: normal;
   margin-left: auto;
   flex-direction: row-reverse;
+  flex-wrap: nowrap;
 }
 .contact-details {
   font-family: rototo;
@@ -306,6 +307,7 @@ address {
 .our-portfolio-part-two {
   display: flex;
   justify-content: space-evenly;
+  padding-bottom: 48px;
 }
 /* ---------footeR------------ */
 .footer-section {
