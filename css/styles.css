@@ -273,6 +273,8 @@ address {
   text-transform: capitalize;
   color: #2e2f42;
   padding-bottom: 72px;
+  margin-top: 120px;
+  margin-bottom: 120px;
 }
 .section-four-mokeup-description {
   font-weight: 500;
@@ -280,6 +282,7 @@ address {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding-bottom: 8px;
 }
 .card-content-profesion {
   font-weight: 400;
