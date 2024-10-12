@@ -47,13 +47,14 @@ address {
   font-style: normal;
   display: flex;
 }
-.container {
+.container-header {
   display: flex;
   width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
   align-items: center;
+  border-bottom: 1px solid #e7e9fc;
 }
 
 /* ------header---------- */
@@ -366,13 +367,13 @@ address {
   background-color: #2e2f42;
   padding-top: 100px;
   padding-bottom: 180px;
-  display: inline-block;
-  margin-bottom: 16px;
 }
 .footer-logo {
   padding-top: 100px;
   padding-bottom: 180px;
   padding-bottom: 16px;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .footer-studio {
   font-family: "Raleway", sans-serif;
@@ -381,8 +382,6 @@ address {
   line-height: 1.17;
   text-transform: uppercase;
   color: #f4f4fd;
-  display: inline-block;
-  margin-bottom: 16px;
 }
 .footer-descripton {
   font-style: normal;
