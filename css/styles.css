@@ -238,6 +238,8 @@ address {
   padding-bottom: 8px;
   gap: 24px;
   margin-bottom: 8px;
+  width: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
 }
 .visually-hidden {
   position: absolute;
@@ -250,6 +252,8 @@ address {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+  width: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
 }
 .section-fist-description {
   font-family: roboto;
@@ -261,6 +265,8 @@ address {
   padding-bottom: 120px;
   width: 264px;
   height: 104px;
+  width: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
 }
 /* -------setion 2------- */
 .our-team {
