@@ -184,12 +184,11 @@ address {
 }
 
 /* -------first section-------- */
-.cont-section-first {
-  gap: 24px;
-}
+
 .wrap {
   display: flex;
   justify-content: space-evenly;
+  gap: 24px;
 }
 .section-first-header {
   font-family: roboto;
