@@ -295,12 +295,20 @@ address {
   color: #434455;
   gap: 24px;
 }
+.our-portfolio-part-one {
+  display: flex;
+  justify-content: space-evenly;
+}
+.our-portfolio-part-two {
+  display: flex;
+  justify-content: space-evenly;
+}
 /* ---------footeR------------ */
 .footer-section {
   font-family: raleway;
   background-color: #2e2f42;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 .footer-web {
   font-family: "Raleway", sans-serif;
