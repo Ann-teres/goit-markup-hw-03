@@ -262,6 +262,10 @@ address {
   background-color: #f4f4fd;
   display: block;
 }
+.emplyee {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
 .section-second-header {
   font-family: roboto;
   font-weight: 700;
@@ -272,6 +276,7 @@ address {
   color: #2e2f42;
   text-transform: capitalize;
   background-color: #f4f4fd;
+  margin-bottom: 72px;
 }
 .card-content-name {
   font-family: roboto;
@@ -282,6 +287,9 @@ address {
   color: #2e2f42;
   background-color: #ffffff;
   gap: 24px;
+  border-radius: 0px 0px 4px 4px;
+  text-align: center;
+  margin-bottom: 8px;
 }
 .card-content-profesion {
   font-family: roboto;
@@ -292,6 +300,7 @@ address {
   background-color: #ffffff;
   gap: 24px;
   margin-bottom: 32px;
+  text-align: center;
 }
 
 /* --------section 3--------- */
