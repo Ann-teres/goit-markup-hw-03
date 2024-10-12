@@ -217,6 +217,7 @@ address {
 .our-team {
   background-color: #f4f4fd;
   margin-top: 120px;
+  margin-bottom: 72px;
 }
 .wrap {
   display: flex;
@@ -224,7 +225,7 @@ address {
   gap: 24px;
 }
 .our-team-section {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 .section-second-header {
   font-family: roboto;
@@ -255,6 +256,7 @@ address {
   color: #2e2f42;
   background-color: #ffffff;
   gap: 24px;
+  margin-bottom: 32px;
 }
 
 /* --------section 3--------- */
