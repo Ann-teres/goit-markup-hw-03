@@ -324,7 +324,6 @@ address {
   background-color: #2e2f42;
   padding-top: 100px;
   padding-bottom: 180px;
-  /* background-size: 1440px/312px; */
 }
 .footer-logo {
   padding-top: 100px;
@@ -338,8 +337,6 @@ address {
   line-height: 1.17;
   text-transform: uppercase;
   color: #f4f4fd;
-
-  /* background-color: #2e2f42; */
 }
 .footer-descripton {
   font-style: normal;
