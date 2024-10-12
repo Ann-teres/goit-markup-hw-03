@@ -48,6 +48,7 @@ address {
   display: flex;
 }
 .container {
+  display: flex;
   width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
@@ -117,6 +118,7 @@ address {
   display: flex;
   justify-content: space-evenly;
   gap: 40px;
+  margin-right: 40px;
 }
 .contact-details {
   font-family: rototo;
