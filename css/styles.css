@@ -141,6 +141,8 @@ address {
   height: 600px;
   color: #4d5ae5;
   max-width: 496px;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 /* space between header contact details */
 .header {
@@ -205,6 +207,8 @@ address {
   display: flex;
   justify-content: space-evenly;
   gap: 24px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .section-first-header {
   font-family: roboto;
@@ -216,6 +220,7 @@ address {
   padding-top: 120px;
   padding-bottom: 8px;
   gap: 24px;
+  margin-bottom: 8px;
 }
 .section-fist-description {
   font-family: roboto;
