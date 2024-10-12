@@ -96,6 +96,9 @@ address {
   color: #2e2f42;
   display: flex;
 }
+.trea-options-menu {
+  display: flex;
+}
 .address-class {
   font-style: normal;
   margin-left: auto;
