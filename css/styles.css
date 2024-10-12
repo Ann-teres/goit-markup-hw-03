@@ -43,10 +43,6 @@ a {
   text-decoration: none;
 }
 
-address {
-  font-style: normal;
-  display: flex;
-}
 .container {
   width: 1158px;
   padding-left: 15px;
