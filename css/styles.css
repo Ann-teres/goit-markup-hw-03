@@ -248,6 +248,7 @@ address {
 }
 .our-team-section {
   background-color: #f4f4fd;
+  display: block;
 }
 .section-second-header {
   font-family: roboto;
@@ -342,6 +343,8 @@ address {
   background-color: #2e2f42;
   padding-top: 100px;
   padding-bottom: 180px;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .footer-logo {
   padding-top: 100px;
@@ -355,6 +358,8 @@ address {
   line-height: 1.17;
   text-transform: uppercase;
   color: #f4f4fd;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .footer-descripton {
   font-style: normal;
