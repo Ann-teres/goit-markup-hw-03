@@ -98,6 +98,7 @@ address {
 }
 .trea-options-menu {
   display: flex;
+  justify-content: center;
 }
 .address-class {
   font-style: normal;
@@ -268,8 +269,8 @@ address {
   margin: auto;
 }
 .wrap {
-  display: flex;
-  justify-content: space-evenly;
+  margin-top: 120px;
+  margin-bottom: 120px;
 }
 .our-portfolio {
   font-weight: 700;
@@ -298,6 +299,7 @@ address {
 .our-portfolio-part-one {
   display: flex;
   justify-content: space-evenly;
+  padding-bottom: 48px;
 }
 .our-portfolio-part-two {
   display: flex;
