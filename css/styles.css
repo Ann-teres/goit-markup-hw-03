@@ -331,6 +331,8 @@ address {
 .footer-section {
   font-family: raleway;
   background-color: #2e2f42;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 .footer-web {
   font-family: "Raleway", sans-serif;
