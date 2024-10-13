@@ -294,6 +294,11 @@ address {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+.li-for-first-element {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 120px 0;
+}
 .wrap {
   display: flex;
   justify-content: space-evenly;
