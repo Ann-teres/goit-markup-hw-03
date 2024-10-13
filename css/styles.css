@@ -319,7 +319,9 @@ address {
   background-color: #ffffff;
   gap: 24px;
 }
-
+.picture {
+  display: block;
+}
 /* --------section 3--------- */
 .section-four-container {
   padding-top: 120px;
@@ -343,10 +345,6 @@ address {
   display: flex;
   flex-wrap: wrap;
   gap: 48px 24px;
-}
-.picture {
-  display: block;
-  width: calc((100% - 48px) / 3);
 }
 .portfolio-wrap {
   font-weight: 500;
@@ -373,6 +371,7 @@ address {
   text-transform: capitalize;
   color: #2e2f42;
   margin-bottom: 72px;
+  width: calc((100% - 48px) / 3);
 }
 .section-four-mokeup-description {
   font-weight: 500;
