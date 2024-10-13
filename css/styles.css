@@ -411,6 +411,7 @@ address {
 .footer-section {
   font-family: raleway;
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 .footer-web {
   font-family: "Raleway", sans-serif;
@@ -423,11 +424,6 @@ address {
   background-color: #2e2f42;
   padding-top: 100px;
   padding-bottom: 180px;
-}
-.footer-logo {
-  padding-top: 100px;
-  padding-bottom: 180px;
-  padding-bottom: 16px;
   display: inline-block;
   margin-bottom: 16px;
 }
@@ -438,6 +434,15 @@ address {
   line-height: 1.17;
   text-transform: uppercase;
   color: #f4f4fd;
+  display: inline-block;
+  margin-bottom: 16px;
+}
+.footer-logo {
+  padding-top: 100px;
+  padding-bottom: 180px;
+  padding-bottom: 16px;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .footer-descripton {
   font-style: normal;
