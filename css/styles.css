@@ -346,9 +346,6 @@ address {
   display: flex;
   flex-wrap: wrap;
   gap: 48px 24px;
-}
-
-.li-our-portfolio {
   width: calc((100% - 48px) / 3);
 }
 
