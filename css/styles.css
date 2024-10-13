@@ -42,9 +42,6 @@ p {
 a {
   text-decoration: none;
 }
-.picture {
-  display: block;
-}
 address {
   font-style: normal;
   display: flex;
@@ -327,7 +324,6 @@ address {
 .section-four-container {
   padding-top: 120px;
   padding-bottom: 120px;
-  width: calc((100% - 48px) / 3);
 }
 .container {
   padding: 0 15px;
@@ -348,7 +344,10 @@ address {
   flex-wrap: wrap;
   gap: 48px 24px;
 }
-
+.picture {
+  display: block;
+  width: calc((100% - 48px) / 3);
+}
 .portfolio-wrap {
   font-weight: 500;
   font-size: 20px;
