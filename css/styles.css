@@ -47,7 +47,10 @@ address {
   font-style: normal;
   display: flex;
 }
-
+.header-container {
+  display: flex;
+  align-items: center;
+}
 .extra-container {
   display: flex;
   align-items: center;
