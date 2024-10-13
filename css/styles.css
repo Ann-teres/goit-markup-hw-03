@@ -345,15 +345,10 @@ address {
 .list-our-portfolio {
   display: flex;
   flex-wrap: wrap;
-  column-gap: 24px;
-  row-gap: 48px;
-  margin-bottom: 48px;
-  margin-bottom: 0;
+  gap: 48px 24px;
 }
 
-.li-our-portfolio:first-child {
-  flex-wrap: wrap;
-  gap: 48px 24px;
+.li-our-portfolio {
   width: calc((100% - 48px) / 3);
 }
 
@@ -366,8 +361,6 @@ address {
   padding-bottom: 8px;
   width: 1158px;
   padding: 32px 16px;
-  border: 1px solid #e7e9fc;
-  border-top: none;
   border-bottom: 1px;
   border-left: 1px;
   border-right: 1px;
@@ -391,8 +384,6 @@ address {
   color: #2e2f42;
   padding-bottom: 8px;
   margin-bottom: 8px;
-  padding: 32px 16px;
-  border: 1px solid #e7e9fc;
 }
 .card-content-profesion {
   display: flex;
