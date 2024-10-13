@@ -299,6 +299,7 @@ address {
   justify-content: space-evenly;
   padding: 120px 0;
   width: calc((100% - 72px) / 4);
+  calc((100% - 3 * 24px) / 4);
 }
 .wrap {
   display: flex;
