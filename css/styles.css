@@ -63,8 +63,7 @@ address {
   display: flex;
   align-items: center;
 }
-.container {
-}
+
 /* ------header---------- */
 .header {
   display: flex;
@@ -136,6 +135,8 @@ address {
   flex-direction: row-reverse;
   gap: 40px;
   margin-right: 40px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .contact-details {
   font-family: rototo;
