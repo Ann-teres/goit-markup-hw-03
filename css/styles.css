@@ -51,9 +51,9 @@ address {
 .header-container {
   display: flex;
   width: 1158px;
+  margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
-  margin: 0 auto;
 }
 .nav-container {
   display: flex;
@@ -63,7 +63,8 @@ address {
   display: flex;
   align-items: center;
 }
-
+.container {
+}
 /* ------header---------- */
 .header {
   display: flex;
@@ -277,7 +278,10 @@ address {
   padding-top: 120px;
   padding-bottom: 120px;
 }
-.container {
+/* .container {
+
+} */
+.section-futures {
   padding-top: 120px;
   padding-bottom: 120px;
 }
