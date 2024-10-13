@@ -47,14 +47,16 @@ address {
   font-style: normal;
   display: flex;
 }
+
 .header-container {
   display: flex;
   align-items: center;
+  gap: 40px;
 }
 .extra-container {
-  display: flex;
-  align-items: center;
-  gap: 40px;
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px 0 15px;
 }
 
 /* ------header---------- */
