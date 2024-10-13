@@ -47,15 +47,11 @@ address {
   font-style: normal;
   display: flex;
 }
-.container-header {
-  display: flex;
-  width: 1158px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
+
 .extra-container {
   display: flex;
   align-items: center;
+  gap: 40px;
 }
 
 /* ------header---------- */
@@ -139,10 +135,7 @@ address {
   color: #434455;
   margin-left: auto;
 }
-.first-element {
-  padding-top: 24px;
-  padding-bottom: 24px;
-}
+
 .contact-details:first-child:focus {
   color: #404bbf;
 }
