@@ -83,6 +83,7 @@ address {
   color: #4d5ae5;
   align-items: center;
   margin-right: 76px;
+  padding: 24px 0;
 }
 .header-logo-studio {
   font-family: "Raleway", sans-serif;
@@ -94,6 +95,7 @@ address {
   color: #2e2f42;
   align-items: center;
   margin-right: 76px;
+  padding: 24px 0;
 }
 
 .hover-button:hover {
