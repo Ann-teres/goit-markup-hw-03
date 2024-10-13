@@ -380,9 +380,9 @@ address {
   margin-bottom: 48px;
   margin-bottom: 0;
 }
-.li-our-portfolio {
+/* .li-our-portfolio {
   width: calc((100% - 72px) / 4);
-}
+} */
 .li-our-portfolio:first-child {
   width: calc((100% - 48px) / 3);
 }
