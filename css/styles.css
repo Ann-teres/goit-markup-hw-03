@@ -338,6 +338,10 @@ address {
   padding: 0 15px;
   margin: 0 auto;
 }
+.portfolio-wrap {
+  border: 1px solid #e7e9fc;
+  padding: 32px 16p;
+}
 .list-our-portfolio {
   display: flex;
   flex-wrap: wrap;
