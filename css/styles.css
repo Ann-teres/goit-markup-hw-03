@@ -339,6 +339,10 @@ address {
 }
 
 /* --------section 3--------- */
+.section-four-container {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 .container {
   padding: 0 15px;
   margin: 0 auto;
