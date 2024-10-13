@@ -342,6 +342,7 @@ address {
 .section-four-container {
   padding-top: 120px;
   padding-bottom: 120px;
+  width: 1158px;
 }
 .container {
   padding: 0 15px;
@@ -352,8 +353,6 @@ address {
   width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 .li-our-portfolio {
   display: flex;
