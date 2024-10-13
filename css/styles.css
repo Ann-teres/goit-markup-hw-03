@@ -364,6 +364,7 @@ address {
   border-bottom: 1px;
   border-left: 1px;
   border-right: 1px;
+  border: 1px solid #e7e9fc;
 }
 
 .our-portfolio {
