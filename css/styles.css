@@ -293,6 +293,7 @@ address {
 .section-futures {
   padding-top: 120px;
   padding-bottom: 120px;
+  width: calc((100% - 72px) / 4);
 }
 .li-for-first-element {
   display: flex;
@@ -357,6 +358,7 @@ address {
   padding-top: 120px;
   padding-bottom: 120px;
   width: 1158px;
+  width: calc((100% - 72px) / 4);
 }
 .container {
   padding: 0 15px;
