@@ -42,7 +42,9 @@ p {
 a {
   text-decoration: none;
 }
-
+.picture {
+  display: block;
+}
 address {
   font-style: normal;
   display: flex;
