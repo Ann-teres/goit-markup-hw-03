@@ -118,7 +118,6 @@ address {
 .wrap-one {
   display: flex;
   gap: 40px;
-  /* flex-direction: row-reverse; */
 }
 .contact-details {
   font-family: rototo;
@@ -136,13 +135,12 @@ address {
 .contact-details:first-child:hover {
   color: #404bbf;
 }
-/* -------- section one -----------*/
+/* -------- section 1 -----------*/
 .order-message {
   background-color: #2e2f42;
   padding-top: 188px;
   padding-bottom: 188px;
 }
-/* space between header contact details */
 .header {
   padding-top: 24px;
   padding-bottom: 24px;
@@ -176,7 +174,7 @@ address {
   letter-spacing: 0.02em;
   max-width: 496px;
   color: #ffffff;
-  text-align: center;
+  align-self: center;
   display: block;
   margin-bottom: 48px;
 }
