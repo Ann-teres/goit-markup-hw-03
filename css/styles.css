@@ -130,15 +130,13 @@ address {
   color: #434455;
   margin-left: auto;
 }
-/* .first-element {
-} */
 .contact-details:first-child:focus {
   color: #404bbf;
 }
 .contact-details:first-child:hover {
   color: #404bbf;
 }
-/*  section one */
+/* -------- section one -----------*/
 .order-message {
   background-color: #2e2f42;
   padding-top: 188px;
@@ -170,7 +168,6 @@ address {
   border-radius: 4px;
   cursor: pointer;
 }
-
 .text-solution {
   font-family: roboto;
   font-weight: 700;
@@ -187,18 +184,15 @@ address {
   cursor: pointer;
   background-color: #4d5ae5;
 }
-
 .hover-button:hover .button {
   background-color: #404bbf;
   border-radius: 10%;
 }
-
 .hover-button:focus .button {
   background-color: #404bbf;
   border-radius: 10%;
 }
-
-/* -------2 section-------- */
+/* ------- section 2 -------- */
 
 .container {
   width: 1158px;
@@ -246,7 +240,7 @@ address {
   width: 264px;
   height: 104px;
 }
-/* -------setion 2------- */
+/* -------setion 3  ------- */
 .our-team {
   margin-top: 120px;
   margin-bottom: 72px;
@@ -254,9 +248,6 @@ address {
   padding-bottom: 120px;
   width: calc((100% - 72px) / 4);
 }
-/* .container {
-
-} */
 .section-three {
   justify-content: space-evenly;
   padding: 120px 0;
@@ -323,7 +314,7 @@ address {
 .picture {
   display: block;
 }
-/* --------section 3--------- */
+/* --------section 4--------- */
 .section-four-container {
   padding-top: 120px;
   padding-bottom: 120px;
