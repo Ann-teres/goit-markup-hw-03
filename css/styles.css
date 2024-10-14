@@ -138,7 +138,7 @@ address {
 .contact-details:first-child:hover {
   color: #404bbf;
 }
-/* pre section one */
+/*  section one */
 .order-message {
   background-color: #2e2f42;
   padding-top: 188px;
@@ -198,7 +198,7 @@ address {
   border-radius: 10%;
 }
 
-/* -------first section-------- */
+/* -------2 section-------- */
 
 .container {
   width: 1158px;
@@ -220,6 +220,7 @@ address {
   letter-spacing: 0.02em;
   color: #2e2f42;
   gap: 24px;
+  align-items: center;
   margin-bottom: 8px;
 }
 .visually-hidden {
