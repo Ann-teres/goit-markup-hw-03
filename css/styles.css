@@ -130,8 +130,8 @@ address {
   color: #434455;
   margin-left: auto;
 }
-.first-element {
-}
+/* .first-element {
+} */
 .contact-details:first-child:focus {
   color: #404bbf;
 }
