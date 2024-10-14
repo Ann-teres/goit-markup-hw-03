@@ -373,7 +373,7 @@ address {
   margin-bottom: 72px;
 }
 .li-our-portfolio {
-  width: calc((100% - 48px) / 3);
+calc((100% - 48px) / 3);
 }
 .section-four-mokeup-description {
   font-weight: 500;
